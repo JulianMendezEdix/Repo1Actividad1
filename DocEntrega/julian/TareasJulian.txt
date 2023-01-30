@@ -1,0 +1,13 @@
+#Requerimento1_1
+Repositorio creado por Juan Pablo con readme incluido.
+
+#Requerimento1_2
+Clono el repositorio de Juan Pablo.
+Abro eclipse y creo un Workspace en la carpeta del repositorio local recién clonado.
+En ese WS creo un proyecto y lo titulo Java. 
+Copio y pego el archivo .gitignore (que es estándar para java) del repositorio "WsGit" de FelixDePablo.
+Creo una carpeta en el repositorio local llamada DocEntrega, con el objetivo de que los miembros del grupo vayan compartinedo sus tareas.
+
+
+
+
