@@ -14,8 +14,14 @@ Creo una carpeta en el repositorio local llamada DocEntrega, con el objetivo de 
 #Requerimiento1_3
 No me hace falta porque he hecho el push con la última versión.
 
-#Requerimiento1_4
-Crear rama develope
+#Requerimiento1_4a8
+Creo rama develope y me cambio a esa rama
+Creo paquete y clase en eclipse y añado y modifico cosas en DocEntrega.
+Añado archivos al stage.
+Hago commit en la rama develop.
+Chequeo con git Log y ok.
+Me paso a rama main y hago merge con la rama develop
+Hago push (17:53lunes30enero)
 (CmdLogRequerimiento1_4.txt)
 
 

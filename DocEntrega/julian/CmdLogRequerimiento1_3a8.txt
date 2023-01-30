@@ -1,0 +1,520 @@
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git branch develop
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git log
+commit d9335b266bca144152fa71de345430a92d484338 (HEAD -> main, origin/main, origin/HEAD, develop)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 14:20:47 2023 +0100
+
+    Requerimento 1_2
+
+commit f06895769d4492e3f6be405abc7d7f4ae04acbed
+Author: JuanPablodelaPenaElias <122790633+JuanPablodelaPenaElias@users.noreply.github.com>
+Date:   Thu Jan 26 12:05:50 2023 +0100
+
+    Initial commit
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git checkout develop
+Switched to branch 'develop'
+M       DocEntrega/julian/TareasJulian.txt
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git log
+commit d9335b266bca144152fa71de345430a92d484338 (HEAD -> develop, origin/main, origin/HEAD, main)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 14:20:47 2023 +0100
+
+    Requerimento 1_2
+
+commit f06895769d4492e3f6be405abc7d7f4ae04acbed
+Author: JuanPablodelaPenaElias <122790633+JuanPablodelaPenaElias@users.noreply.github.com>
+Date:   Thu Jan 26 12:05:50 2023 +0100
+
+    Initial commit
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git log
+commit d9335b266bca144152fa71de345430a92d484338 (HEAD -> develop, origin/main, origin/HEAD, main)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 14:20:47 2023 +0100
+
+    Requerimento 1_2
+
+commit f06895769d4492e3f6be405abc7d7f4ae04acbed
+Author: JuanPablodelaPenaElias <122790633+JuanPablodelaPenaElias@users.noreply.github.com>
+Date:   Thu Jan 26 12:05:50 2023 +0100
+
+    Initial commit
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git status
+On branch develop
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   DocEntrega/julian/TareasJulian.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        DocEntrega/julian/CmdLogRequerimiento1_1y2.txt
+        DocEntrega/julian/jpgs/Requerimento1_2.jpg
+        Java/src/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git add .
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git status
+On branch develop
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   DocEntrega/julian/CmdLogRequerimiento1_1y2.txt
+        modified:   DocEntrega/julian/TareasJulian.txt
+        new file:   DocEntrega/julian/jpgs/Requerimento1_2.jpg
+        new file:   Java/src/julian/Julian.java
+
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git commit -m "Requerimiento1_3a7 Añadida clase en java que imprime nombre y más"
+[develop 0ddd9d5] Requerimiento1_3a7 Añadida clase en java que imprime nombre y más
+ 4 files changed, 201 insertions(+), 1 deletion(-)
+ create mode 100644 DocEntrega/julian/CmdLogRequerimiento1_1y2.txt
+ create mode 100644 DocEntrega/julian/jpgs/Requerimento1_2.jpg
+ create mode 100644 Java/src/julian/Julian.java
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git log
+commit 0ddd9d51afac599f737cbe1121ab12e127bb6d44 (HEAD -> develop)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 17:53:05 2023 +0100
+
+    Requerimiento1_3a7 Añadida clase en java que imprime nombre y más
+
+commit d9335b266bca144152fa71de345430a92d484338 (origin/main, origin/HEAD, main)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 14:20:47 2023 +0100
+
+    Requerimento 1_2
+
+commit f06895769d4492e3f6be405abc7d7f4ae04acbed
+Author: JuanPablodelaPenaElias <122790633+JuanPablodelaPenaElias@users.noreply.github.com>
+Date:   Thu Jan 26 12:05:50 2023 +0100
+
+    Initial commit
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git merge main
+Already up to date.
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>checkout main
+"checkout" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git checkout main
+Deletion of directory 'Java/src' failed. Should I try again? (y/n) n
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git log
+commit d9335b266bca144152fa71de345430a92d484338 (HEAD -> main, origin/main, origin/HEAD)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 14:20:47 2023 +0100
+
+    Requerimento 1_2
+
+commit f06895769d4492e3f6be405abc7d7f4ae04acbed
+Author: JuanPablodelaPenaElias <122790633+JuanPablodelaPenaElias@users.noreply.github.com>
+Date:   Thu Jan 26 12:05:50 2023 +0100
+
+    Initial commit
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>dir
+ El volumen de la unidad D es Workspace
+ El número de serie del volumen es: 4267-92EF
+
+ Directorio de D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1
+
+30/01/2023  17:06    <DIR>          .
+30/01/2023  17:06    <DIR>          ..
+30/01/2023  17:06             3.661 .gitignore
+30/01/2023  17:33    <DIR>          .metadata
+30/01/2023  14:00    <DIR>          DocEntrega
+30/01/2023  17:06    <DIR>          Java
+30/01/2023  13:42                36 README.md
+               2 archivos          3.697 bytes
+               5 dirs  817.778.593.792 bytes libres
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>cd java
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1\Java>dir
+ El volumen de la unidad D es Workspace
+ El número de serie del volumen es: 4267-92EF
+
+ Directorio de D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1\Java
+
+30/01/2023  17:06    <DIR>          .
+30/01/2023  17:06    <DIR>          ..
+30/01/2023  17:06               396 .classpath
+30/01/2023  17:06               380 .project
+30/01/2023  13:50    <DIR>          .settings
+30/01/2023  17:33    <DIR>          bin
+30/01/2023  17:54    <DIR>          src
+               2 archivos            776 bytes
+               5 dirs  817.778.593.792 bytes libres
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1\Java>cd..
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>cd..
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace>cd Repo1Actividad1
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>dir
+ El volumen de la unidad D es Workspace
+ El número de serie del volumen es: 4267-92EF
+
+ Directorio de D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1
+
+30/01/2023  17:06    <DIR>          .
+30/01/2023  17:06    <DIR>          ..
+30/01/2023  17:06             3.661 .gitignore
+30/01/2023  17:33    <DIR>          .metadata
+30/01/2023  14:00    <DIR>          DocEntrega
+30/01/2023  17:06    <DIR>          Java
+30/01/2023  13:42                36 README.md
+               2 archivos          3.697 bytes
+               5 dirs  817.778.593.792 bytes libres
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git log
+commit d9335b266bca144152fa71de345430a92d484338 (HEAD -> main, origin/main, origin/HEAD)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 14:20:47 2023 +0100
+
+    Requerimento 1_2
+
+commit f06895769d4492e3f6be405abc7d7f4ae04acbed
+Author: JuanPablodelaPenaElias <122790633+JuanPablodelaPenaElias@users.noreply.github.com>
+Date:   Thu Jan 26 12:05:50 2023 +0100
+
+    Initial commit
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git checkout develop
+Switched to branch 'develop'
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>dir
+ El volumen de la unidad D es Workspace
+ El número de serie del volumen es: 4267-92EF
+
+ Directorio de D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1
+
+30/01/2023  17:06    <DIR>          .
+30/01/2023  17:06    <DIR>          ..
+30/01/2023  17:06             3.661 .gitignore
+30/01/2023  17:33    <DIR>          .metadata
+30/01/2023  14:00    <DIR>          DocEntrega
+30/01/2023  17:06    <DIR>          Java
+30/01/2023  13:42                36 README.md
+               2 archivos          3.697 bytes
+               5 dirs  817.778.307.072 bytes libres
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>cd java
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1\Java>dir
+ El volumen de la unidad D es Workspace
+ El número de serie del volumen es: 4267-92EF
+
+ Directorio de D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1\Java
+
+30/01/2023  17:06    <DIR>          .
+30/01/2023  17:06    <DIR>          ..
+30/01/2023  17:06               396 .classpath
+30/01/2023  17:06               380 .project
+30/01/2023  13:50    <DIR>          .settings
+30/01/2023  17:33    <DIR>          bin
+30/01/2023  17:54    <DIR>          src
+               2 archivos            776 bytes
+               5 dirs  817.778.307.072 bytes libres
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1\Java>cd..
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git checkout main
+Deletion of directory 'Java/src' failed. Should I try again? (y/n) n
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git log
+commit d9335b266bca144152fa71de345430a92d484338 (HEAD -> main, origin/main, origin/HEAD)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 14:20:47 2023 +0100
+
+    Requerimento 1_2
+
+commit f06895769d4492e3f6be405abc7d7f4ae04acbed
+Author: JuanPablodelaPenaElias <122790633+JuanPablodelaPenaElias@users.noreply.github.com>
+Date:   Thu Jan 26 12:05:50 2023 +0100
+
+    Initial commit
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git checkout develop
+Switched to branch 'develop'
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git checkout main
+Deletion of directory 'Java/src' failed. Should I try again? (y/n) n
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git checkout develop
+Switched to branch 'develop'
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git log
+commit 0ddd9d51afac599f737cbe1121ab12e127bb6d44 (HEAD -> develop)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 17:53:05 2023 +0100
+
+    Requerimiento1_3a7 Añadida clase en java que imprime nombre y más
+
+commit d9335b266bca144152fa71de345430a92d484338 (origin/main, origin/HEAD, main)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 14:20:47 2023 +0100
+
+    Requerimento 1_2
+
+commit f06895769d4492e3f6be405abc7d7f4ae04acbed
+Author: JuanPablodelaPenaElias <122790633+JuanPablodelaPenaElias@users.noreply.github.com>
+Date:   Thu Jan 26 12:05:50 2023 +0100
+
+    Initial commit
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git checkout main
++Deletion of directory 'Java/src' failed. Should I try again? (y/n) n
+Sorry, I did not understand your answer. Please type 'y' or 'n'
+Deletion of directory 'Java/src' failed. Should I try again? (y/n) n
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git log
+commit d9335b266bca144152fa71de345430a92d484338 (HEAD -> main, origin/main, origin/HEAD)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 14:20:47 2023 +0100
+
+    Requerimento 1_2
+
+commit f06895769d4492e3f6be405abc7d7f4ae04acbed
+Author: JuanPablodelaPenaElias <122790633+JuanPablodelaPenaElias@users.noreply.github.com>
+Date:   Thu Jan 26 12:05:50 2023 +0100
+
+    Initial commit
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git merge develop
+Updating d9335b2..0ddd9d5
+Fast-forward
+ DocEntrega/julian/CmdLogRequerimiento1_1y2.txt | 175 +++++++++++++++++++++++++
+ DocEntrega/julian/TareasJulian.txt             |  10 +-
+ DocEntrega/julian/jpgs/Requerimento1_2.jpg     | Bin 0 -> 269633 bytes
+ Java/src/julian/Julian.java                    |  17 +++
+ 4 files changed, 201 insertions(+), 1 deletion(-)
+ create mode 100644 DocEntrega/julian/CmdLogRequerimiento1_1y2.txt
+ create mode 100644 DocEntrega/julian/jpgs/Requerimento1_2.jpg
+ create mode 100644 Java/src/julian/Julian.java
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git log
+commit 0ddd9d51afac599f737cbe1121ab12e127bb6d44 (HEAD -> main, develop)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 17:53:05 2023 +0100
+
+    Requerimiento1_3a7 Añadida clase en java que imprime nombre y más
+
+commit d9335b266bca144152fa71de345430a92d484338 (origin/main, origin/HEAD)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 14:20:47 2023 +0100
+
+    Requerimento 1_2
+
+commit f06895769d4492e3f6be405abc7d7f4ae04acbed
+Author: JuanPablodelaPenaElias <122790633+JuanPablodelaPenaElias@users.noreply.github.com>
+Date:   Thu Jan 26 12:05:50 2023 +0100
+
+    Initial commit
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git checkout develop
+Switched to branch 'develop'
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git log
+commit 0ddd9d51afac599f737cbe1121ab12e127bb6d44 (HEAD -> develop, main)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 17:53:05 2023 +0100
+
+    Requerimiento1_3a7 Añadida clase en java que imprime nombre y más
+
+commit d9335b266bca144152fa71de345430a92d484338 (origin/main, origin/HEAD)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 14:20:47 2023 +0100
+
+    Requerimento 1_2
+
+commit f06895769d4492e3f6be405abc7d7f4ae04acbed
+Author: JuanPablodelaPenaElias <122790633+JuanPablodelaPenaElias@users.noreply.github.com>
+Date:   Thu Jan 26 12:05:50 2023 +0100
+
+    Initial commit
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git checkout main
+Switched to branch 'main'
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git log
+commit 0ddd9d51afac599f737cbe1121ab12e127bb6d44 (HEAD -> main, develop)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 17:53:05 2023 +0100
+
+    Requerimiento1_3a7 Añadida clase en java que imprime nombre y más
+
+commit d9335b266bca144152fa71de345430a92d484338 (origin/main, origin/HEAD)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 14:20:47 2023 +0100
+
+    Requerimento 1_2
+
+commit f06895769d4492e3f6be405abc7d7f4ae04acbed
+Author: JuanPablodelaPenaElias <122790633+JuanPablodelaPenaElias@users.noreply.github.com>
+Date:   Thu Jan 26 12:05:50 2023 +0100
+
+    Initial commit
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git log
+commit 0ddd9d51afac599f737cbe1121ab12e127bb6d44 (HEAD -> main, develop)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 17:53:05 2023 +0100
+
+    Requerimiento1_3a7 Añadida clase en java que imprime nombre y más
+
+commit d9335b266bca144152fa71de345430a92d484338 (origin/main, origin/HEAD)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 14:20:47 2023 +0100
+
+    Requerimento 1_2
+
+commit f06895769d4492e3f6be405abc7d7f4ae04acbed
+Author: JuanPablodelaPenaElias <122790633+JuanPablodelaPenaElias@users.noreply.github.com>
+Date:   Thu Jan 26 12:05:50 2023 +0100
+
+    Initial commit
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git push
+Enumerating objects: 18, done.
+Counting objects: 100% (18/18), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (12/12), 152.39 KiB | 16.93 MiB/s, done.
+Total 12 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/JuanPablodelaPenaElias/Repo1Actividad1.git
+   d9335b2..0ddd9d5  main -> main
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git checkout develop
+Switched to branch 'develop'
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git status
+On branch develop
+nothing to commit, working tree clean
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git log
+commit 0ddd9d51afac599f737cbe1121ab12e127bb6d44 (HEAD -> develop, origin/main, origin/HEAD, main)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 17:53:05 2023 +0100
+
+    Requerimiento1_3a7 Añadida clase en java que imprime nombre y más
+
+commit d9335b266bca144152fa71de345430a92d484338
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 14:20:47 2023 +0100
+
+    Requerimento 1_2
+
+commit f06895769d4492e3f6be405abc7d7f4ae04acbed
+Author: JuanPablodelaPenaElias <122790633+JuanPablodelaPenaElias@users.noreply.github.com>
+Date:   Thu Jan 26 12:05:50 2023 +0100
+
+    Initial commit
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git checkout d9335b266bca1
+Deletion of directory 'Java/src' failed. Should I try again? (y/n) n
+Note: switching to 'd9335b266bca1'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at d9335b2 Requerimento 1_2
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git checkout develop
+Previous HEAD position was d9335b2 Requerimento 1_2
+Switched to branch 'develop'
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git log
+commit 0ddd9d51afac599f737cbe1121ab12e127bb6d44 (HEAD -> develop, origin/main, origin/HEAD, main)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 17:53:05 2023 +0100
+
+    Requerimiento1_3a7 Añadida clase en java que imprime nombre y más
+
+commit d9335b266bca144152fa71de345430a92d484338
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 14:20:47 2023 +0100
+
+    Requerimento 1_2
+
+commit f06895769d4492e3f6be405abc7d7f4ae04acbed
+Author: JuanPablodelaPenaElias <122790633+JuanPablodelaPenaElias@users.noreply.github.com>
+Date:   Thu Jan 26 12:05:50 2023 +0100
+
+    Initial commit
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git status
+On branch develop
+nothing to commit, working tree clean
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>
