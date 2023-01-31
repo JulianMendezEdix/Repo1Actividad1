@@ -20,7 +20,9 @@ Creo paquete y clase en eclipse y añado y modifico cosas en DocEntrega.
 Añado archivos al stage.
 Hago commit en la rama develop.
 Chequeo con git Log y ok.
-Me paso a rama main y hago merge con la rama develop
+Me paso a rama main. 
+Chequeo en GitHub que no hay cambios en el repositorio remoto. (no hice pull, chequeé en github refrescando pagina)
+Hago merge con la rama develop.
 Hago push (17:53lunes30enero)
 (CmdLogRequerimiento1_4.txt)
 
