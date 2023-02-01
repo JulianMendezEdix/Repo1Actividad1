@@ -1,0 +1,97 @@
+AD/1 Requerimiento 1
+
+JULIÁN MÉNDEZ PODADERA, Juan Pablo De La Peña Elías Diego García Rodríguez ALBERTO ANGEL LOPEZ VILARIÑO Ocultar
+Grupo 16
+1 Febrero 2023 en 10:59
+ 
+Todavía no te agregó Juan Pablo como colaborador?
+
+Diego García Rodríguez, Juan Pablo De La Peña Elías ALBERTO ANGEL LOPEZ VILARIÑO JULIÁN MÉNDEZ PODADERA Ocultar
+Grupo 16
+1 Febrero 2023 en 10:50
+ 
+Mi parte creo que ya está, pero no se si me tiene que aceptar el creador del repositorio para poder subir las modificaciones. De momento la pull request ya está hecha.
+JULIÁN MÉNDEZ PODADERA, Juan Pablo De La Peña Elías Diego García Rodríguez ALBERTO ANGEL LOPEZ VILARIÑO Ocultar
+Grupo 16
+1 Febrero 2023 en 10:41
+ 
+hola diego,
+
+para terminar el requerimiento 1 cumpliendo todos los puntos todos tenemos que tener los cambios de los demás según cuenta en los puntos 9 y 10. Así que para pasar al requerimiento 2 molaría que terminaras aunque sea tú el 1. Alberto no contesta, y Juan Pablo anda aclarándose.
+
+Puedes terminar el requerimiento 1 hoy para poder hacer el requerimiento 2 hoy? Y mañana el 3? Se nos acaba la semana.
+
+En cuanto al documento, yo prefiero tener todo en el mismo sitio. Por que no tenerlo en github? o aquí en el campus? para qué abrir otro melón con drive? Pero como queráis.
+
+Diego García Rodríguez, Juan Pablo De La Peña Elías ALBERTO ANGEL LOPEZ VILARIÑO JULIÁN MÉNDEZ PODADERA Ocultar
+Grupo 16
+1 Febrero 2023 en 10:26
+ 
+Para ir realizando el documento que nos pide, no se que os parece utilizar un doc en el drive, y así lo podemos ver todos a medida que se hace.
+
+Diego García Rodríguez, Juan Pablo De La Peña Elías ALBERTO ANGEL LOPEZ VILARIÑO JULIÁN MÉNDEZ PODADERA Ocultar
+Grupo 16
+1 Febrero 2023 en 10:15
+ 
+Buenass, no se como quieres repartilo a partir de aquí, yo mas o menos creo que me podría adaptar
+
+JULIÁN MÉNDEZ PODADERA, Juan Pablo De La Peña Elías Diego García Rodríguez ... +1 más
+Grupo 16
+31 Enero 2023 en 17:03
+ 
+Ok Juan. Ánimo. Avisa cuando puedas avanzar. Otra vez no has respondido a todos.
+
+Diego, tu quieres/puedes avanzar o continúo solo?
+
+Juan Pablo De La Peña Elías, JULIÁN MÉNDEZ PODADERA
+Grupo 16
+31 Enero 2023 en 16:35
+ 
+Buenas JULIAN yo me encuentro perdido te digo la verdad.
+Entró en CMD y no encuentro nada , tengo mucho disco duro, y no se donde
+dirigirme para empezar por lo menos😭
+
+
+JULIÁN MÉNDEZ PODADERA, Juan Pablo De La Peña Elías Diego García Rodríguez ... +1 más
+Grupo 16
+31 Enero 2023 en 15:06
+ 
+Que tal como vais?
+
+Estaría bien dejar hecho el requerimiento 1 hoy, y así poder ponernos mañana con el requerimiento 2.
+
+Y molaría hacer el jueves el requerimiento 3, terminar el documento de entrega el viernes. Y tendríamos el lunes para cualquier imprevisto.
+
+JULIÁN MÉNDEZ PODADERA, Juan Pablo De La Peña Elías Diego García Rodríguez ... +1 más
+Grupo 16
+30 Enero 2023 en 16:51
+ 
+Igual puedes pedir tutoría con Félix.
+
+Juan Pablo De La Peña Elías, Diego García Rodríguez ALBERTO ANGEL LOPEZ VILARIÑO ... +1 más
+Grupo 16
+30 Enero 2023 en 16:46
+ 
+estoy muy muy perdido la verdad me he istalado GIT y asu vez a creado otra CMD entonces no se donde tengo que darle para cambiar o ver donde estemos.
+
+JULIÁN MÉNDEZ PODADERA, Juan Pablo De La Peña Elías Diego García Rodríguez ... +1 más
+Grupo 16
+30 Enero 2023 en 15:44
+ 
+Has respondido a todos Juan! Thanks. Eres un crack.
+
+Juan Pablo De La Peña Elías, Diego García Rodríguez ALBERTO ANGEL LOPEZ VILARIÑO ... +1 más
+Grupo 16
+30 Enero 2023 en 14:54
+ 
+ok luego me meto
+
+JULIÁN MÉNDEZ PODADERA, Juan Pablo De La Peña Elías Diego García Rodríguez ... +1 más
+Grupo 16
+30 Enero 2023 en 14:38
+ 
+Tal y como habiamos quedado en la conferencia he terminado el requerimiento 1.2. He subido el proyecto Java y tal.
+
+Ya podemos hacer nuestras ramas de develop y hacer nuestras partes individuales del requerimiento 1. Chequead porfa que estais con la ultima version antes de hacer push, por si se os ha adelantado alguien!
+
+thanks, agur.
