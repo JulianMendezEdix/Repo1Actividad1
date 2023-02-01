@@ -12,6 +12,12 @@ public class Julian {
 	
 		System.out.println("Hola, soy Julián");
 	
+	}
+	
+	public static void imprimirHobbies() {
+		
+		System.out.println("Me gusta pasear, leer y ver pelis");
+	
 	} 	
 	
 }
