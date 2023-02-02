@@ -1,0 +1,205 @@
+Microsoft Windows [Versión 10.0.19045.2486]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git status
+On branch develop
+nothing to commit, working tree clean
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git log
+commit 0ddd9d51afac599f737cbe1121ab12e127bb6d44 (HEAD -> main, origin/main, origin/HEAD)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 17:53:05 2023 +0100
+
+    Requerimiento1_3a7 Añadida clase en java que imprime nombre y más
+
+commit d9335b266bca144152fa71de345430a92d484338
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 14:20:47 2023 +0100
+
+    Requerimento 1_2
+
+commit f06895769d4492e3f6be405abc7d7f4ae04acbed
+Author: JuanPablodelaPenaElias <122790633+JuanPablodelaPenaElias@users.noreply.github.com>
+Date:   Thu Jan 26 12:05:50 2023 +0100
+
+    Initial commit
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git checkout develop
+Switched to branch 'develop'
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git merge main
+Already up to date.
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git status
+On branch develop
+nothing to commit, working tree clean
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git log
+commit 38dbda9a98ea059a3e9bfd1a01f85c0357a90a51 (HEAD -> develop)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Wed Feb 1 11:27:50 2023 +0100
+
+    Cambios docentrega
+
+commit ad38c3aabb891c0a8269fb04317ce33275e348ae
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Tue Jan 31 16:43:21 2023 +0100
+
+    Cambios en DocEntrega
+
+commit 430074df015fe7ee752aa025c928f7f44afd579d
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Tue Jan 31 15:10:18 2023 +0100
+
+    Añadidas comunicaciones hasta la fecha
+
+commit 526db9952e7cfd18d13db3bc9a3b06aabe315ce9
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 20:36:56 2023 +0100
+
+    Cambios en Readme con StackEditor
+
+commit 73591f4256cbf643a97c93802ff8941330480bdb
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 18:46:27 2023 +0100
+
+    Requerimiento 1_3a8 añadidos y modificaciones en DocEntrega
+
+commit 0ddd9d51afac599f737cbe1121ab12e127bb6d44 (origin/main, origin/HEAD, main)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 17:53:05 2023 +0100
+
+    Requerimiento1_3a7 Añadida clase en java que imprime nombre y más
+
+commit d9335b266bca144152fa71de345430a92d484338
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 14:20:47 2023 +0100
+
+    Requerimento 1_2
+
+commit f06895769d4492e3f6be405abc7d7f4ae04acbed
+Author: JuanPablodelaPenaElias <122790633+JuanPablodelaPenaElias@users.noreply.github.com>
+Date:   Thu Jan 26 12:05:50 2023 +0100
+
+    Initial commit
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git status
+On branch develop
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   Java/src/julian/Julian.java
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git commit -am "Requerimiento 2 y cambios en DocEntrega y README"
+[develop d74a1c8] Requerimiento 2 y cambios en DocEntrega y README
+ 1 file changed, 6 insertions(+)
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git status
+On branch develop
+nothing to commit, working tree clean
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git merge develop
+Updating 0ddd9d5..d74a1c8
+Fast-forward
+ DocEntrega/julian/CmdLogRequerimiento1_3a8.txt     | 520 +++++++++++++++++++++
+ DocEntrega/julian/TareasJulian.txt                 |  12 +-
+ .../01_Grupo 16 Bienvenida_TablonGrupo16.txt       |  12 +
+ .../02_GrupoDeWhatsaap_MensajeriaCampus.txt        |  38 ++
+ ...o de trabajo de ED formado_MensajeriaCampus.txt |  13 +
+ ..._he creado el respositorio_MensajeriaCampus.txt |  52 +++
+ .../05_Reunion grupo 16_MensajeriaCampus.txt       |  82 ++++
+ .../06_PresentacionGrupo16_Videoconferencia.txt    |   3 +
+ .../07_AD1 Requerimiento1_MensajeriaCampus.txt     |  45 ++
+ .../07_DudasGrupo16AD1_MensajeriaCampus.txt        |  29 ++
+ .../08_AD1 Requerimiento1_MensajeriaCampus.txt     |  97 ++++
+ DocEntrega/julian/comunicaciones/Leeme.txt         |   3 +
+ .../julian/jpgs/CapturaRepoEnGithubJuanPablo.jpg   | Bin 0 -> 164699 bytes
+ .../julian/jpgs/CapturaRepoEnGithubJuanPablo_2.jpg | Bin 0 -> 132820 bytes
+ DocEntrega/julian/jpgs/Requerimento1_3a8_A.jpg     | Bin 0 -> 284836 bytes
+ DocEntrega/julian/jpgs/Requerimento1_3a8_B.jpg     | Bin 0 -> 119297 bytes
+ DocEntrega/julian/jpgs/Requerimento1_3a8_C.jpg     | Bin 0 -> 241964 bytes
+ DocEntrega/julian/jpgs/Requerimento1_3a8_D.jpg     | Bin 0 -> 80685 bytes
+ Java/src/julian/Julian.java                        |   6 +
+ README.md                                          |  16 +-
+ 20 files changed, 924 insertions(+), 4 deletions(-)
+ create mode 100644 DocEntrega/julian/CmdLogRequerimiento1_3a8.txt
+ create mode 100644 DocEntrega/julian/comunicaciones/01_Grupo 16 Bienvenida_TablonGrupo16.txt
+ create mode 100644 DocEntrega/julian/comunicaciones/02_GrupoDeWhatsaap_MensajeriaCampus.txt
+ create mode 100644 DocEntrega/julian/comunicaciones/03_Grupo de trabajo de ED formado_MensajeriaCampus.txt
+ create mode 100644 DocEntrega/julian/comunicaciones/04_he creado el respositorio_MensajeriaCampus.txt
+ create mode 100644 DocEntrega/julian/comunicaciones/05_Reunion grupo 16_MensajeriaCampus.txt
+ create mode 100644 DocEntrega/julian/comunicaciones/06_PresentacionGrupo16_Videoconferencia.txt
+ create mode 100644 DocEntrega/julian/comunicaciones/07_AD1 Requerimiento1_MensajeriaCampus.txt
+ create mode 100644 DocEntrega/julian/comunicaciones/07_DudasGrupo16AD1_MensajeriaCampus.txt
+ create mode 100644 DocEntrega/julian/comunicaciones/08_AD1 Requerimiento1_MensajeriaCampus.txt
+ create mode 100644 DocEntrega/julian/comunicaciones/Leeme.txt
+ create mode 100644 DocEntrega/julian/jpgs/CapturaRepoEnGithubJuanPablo.jpg
+ create mode 100644 DocEntrega/julian/jpgs/CapturaRepoEnGithubJuanPablo_2.jpg
+ create mode 100644 DocEntrega/julian/jpgs/Requerimento1_3a8_A.jpg
+ create mode 100644 DocEntrega/julian/jpgs/Requerimento1_3a8_B.jpg
+ create mode 100644 DocEntrega/julian/jpgs/Requerimento1_3a8_C.jpg
+ create mode 100644 DocEntrega/julian/jpgs/Requerimento1_3a8_D.jpg
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git log
+commit d74a1c8a75db429cf023da2844ad02935469a649 (HEAD -> main, develop)
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Wed Feb 1 19:26:29 2023 +0100
+
+    Requerimiento 2 y cambios en DocEntrega y README
+
+commit 38dbda9a98ea059a3e9bfd1a01f85c0357a90a51
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Wed Feb 1 11:27:50 2023 +0100
+
+    Cambios docentrega
+
+commit ad38c3aabb891c0a8269fb04317ce33275e348ae
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Tue Jan 31 16:43:21 2023 +0100
+
+    Cambios en DocEntrega
+
+commit 430074df015fe7ee752aa025c928f7f44afd579d
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Tue Jan 31 15:10:18 2023 +0100
+
+    Añadidas comunicaciones hasta la fecha
+
+commit 526db9952e7cfd18d13db3bc9a3b06aabe315ce9
+Author: JulianMendez <JulianMendezEdix@gmail.com>
+Date:   Mon Jan 30 20:36:56 2023 +0100
+
+    Cambios en Readme con StackEditor
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git push
+Enumerating objects: 61, done.
+Counting objects: 100% (61/61), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (44/44), done.
+Writing objects: 100% (51/51), 517.92 KiB | 13.28 MiB/s, done.
+Total 51 (delta 18), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (18/18), completed with 3 local objects.
+To https://github.com/JuanPablodelaPenaElias/Repo1Actividad1.git
+   0ddd9d5..d74a1c8  main -> main
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>git checkout develop
+Switched to branch 'develop'
+
+D:\02 Programación\02 Edix\1ºDAW\Asignaturas\Entornos de Desarrollo\Workspace\Repo1Actividad1>
