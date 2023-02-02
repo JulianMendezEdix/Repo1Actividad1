@@ -27,7 +27,7 @@ Tenemos una reunión el lunes 30 de enero por la mañana en la que organizamos u
  - Requerimiento 1 apartado 2:
 
 Inmediatamente después de la reunión clono el repositorio de Juan Pablo:
-![Alt] (\img\Ad1_Req1.jpg)
+![Ad1_Req1](img/Ad1_Req1.jpg)
 
 Abro eclipse y creo un 'workspace' en la carpeta del repositorio local recién clonado. En ese 'workspace' creo un proyecto normal de Java y lo titulo Java.
  
@@ -36,7 +36,7 @@ Copio y pego el archivo '.gitignore' (que es estándar para java y eclipse y nos
 Creo una carpeta en el repositorio local llamada 'DocEntrega', con el objetivo de que los miembros del grupo vayan volcando sus tareas y así ponerlas en común una vez realizadas.
 
 A continuación me dedico a la parte específica de Git. Aquí, los pasos:
-Ad1_Req2.jpg
+![Ad1_Req1_2](img/Ad1_Req1_2.jpg)
 
 Compruebo en github y el 'push' ha ido bien, se ha creado el 'commit' [Requerimento 1_2](https://github.com/JuanPablodelaPenaElias/Repo1Actividad1/commit/d9335b266bca144152fa71de345430a92d484338) el lunes 30 de Enero al mediodía.
 
@@ -49,33 +49,33 @@ No me corresponde porque he hecho el 'push' con la última versión.
 - Requerimiento 1 apartados 4 a 7:
 
 Creo rama 'develop':
-Ad1_Req4_A.jpg
+![Ad1_Req1_4A](img/Ad1_Req1_4A.jpg)
 
 Me cambio a rama 'develop' y hago 'git log' para chequear que está todo ok:
-Ad1_Req4_B.jpg
+![Ad1_Req1_4B](img/Ad1_Req1_4B.jpg)
 
 Creo paquete y clase 'Julian' en eclipse y añado y modifico cosas en 'DocEntrega'.
 
 Añado archivos al 'stage'.
-Ad1_Req4_C.jpg
+![Ad1_Req1_4C](img/Ad1_Req1_4C.jpg)
 
 Hago 'commit' en la rama 'develop'.
 Chequeo con 'git log' y ok.
-Ad1_Req4_D.jpg
+![Ad1_Req1_4D](img/Ad1_Req1_4D.jpg)
 
 - Requerimiento 1 apartado 8.
 
 Compruebo en 'github' que "llego el primero" y que no hay cambios en el remoto, así que hago el paso 8 y no el paso 9, tal y como indica la tarea.
 
 Me paso a rama 'main'. 
-Ad1_Req4_E.jpg
-Ad1_Req4_F.jpg
+![Ad1_Req1_4E](img/Ad1_Req1_4E.jpg)
+![Ad1_Req1_4F](img/Ad1_Req1_4F.jpg)
 
 Al cambiar me dice que la rama 'main' está actualizada con el remoto. También chequeo en GitHub que no hay cambios en el repositorio remoto de nuevo. Así que no hago 'pull' y hago 'merge' con la rama 'develop'.
-Ad1_Req4_G.jpg
+![Ad1_Req1_4G](img/Ad1_Req1_4G.jpg)
 
 Hago 'push' a las 17:53 el lunes 30 de enero
-Ad1_Req4_H.jpg
+![Ad1_Req1_4H](img/Ad1_Req1_4H.jpg)
 
 Chequeo y veo que en el remoto se ha creado el 'commit': [Requerimiento1_3a7 Añadida clase en java que imprime nombre y más](https://github.com/JuanPablodelaPenaElias/Repo1Actividad1/commit/0ddd9d51afac599f737cbe1121ab12e127bb6d44)
 
@@ -91,20 +91,20 @@ Es miércoles por la tarde y han pasado dos días desde que todos podíamos comp
  - Requerimiento 2 apartado 1:
 
 Me paso a rama "develop" y hago 'merge' con rama "main" (aunque no hace falta porque no hay cambios de mis compañeros).
-Ad1_Req2_A.jpg
+![Ad1_Req2_A](img/Ad1_Req2_A.jpg)
 
  - Requerimiento 2 apartado 2:
 
 Edito la clase java 'Julian' con eclipse para que imprima tres hobbies. Y hago otras modificaciones y añadidos para el documento de entrega. Hago varios 'commit' diferentes en mi rama develop.
-Ad1_Req2_B.jpg
-Ad1_Req2_C.jpg
+![Ad1_Req2_B.jpg](img/Ad1_Req2_B.jpg)
+![Ad1_Req2_C.jpg](img/Ad1_Req2_C.jpg)
 
  - Requerimiento 2 apartado 3:
 
 Hago ulitmo commit. 
 Cambio a rama 'main' y hago 'merge' de la rama "develop". Hago 'push' al repositorio remoto:
-Ad1_Req2_D.jpg
-Ad1_Req2_E.jpg
+![Ad1_Req2_D.jpg](img/Ad1_Req2_D.jpg)
+![Ad1_Req2_E.jpg](img/Ad1_Req2_E.jpg)
 
 Me cambio a rama "develop".
 
