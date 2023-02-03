@@ -113,12 +113,70 @@ Me cambio a rama "develop".
 
 No me corresponde hacerlos. Estoy pendiente de los compañeros, que todavía no han terminado el requisito 1 a día de hoy (miércoles 2 de enero). 
 
+Es jueves por la tarde y ha pasado un día desde que todos podíamos completar el requerimiento 2. No puedo avanzar porque es necesario que los compañeros lleguen aquí: el requerimiento 3 consiste en generar conflictos y soluciones con varios integrantes.
+
+Así que, aprieto un pelín a los demás compañeros y hablo con el profesor y pido una tutoría que nos concede el viernes por la mañana.  (Véase carpeta "[comunicaciones](https://github.com/JuanPablodelaPenaElias/Repo1Actividad1/tree/main/DocEntrega/julian/comunicaciones)").
+
+Después de la tutoría consigo terminar el requerimiento 2 con Diego, ¡gracias Diego! Ahí va:
+
+Me cambio a rama "main" y hago 'pull' para bajarme los cambios de Diego con su requerimiento 2:
+![Requerimento3_A.jpg](img/Requerimento3_A.jpg)
+
+Hago merge de la rama "develop" (donde tenia un nuevo commit con cambios en el readme) en el "main", y hago un 'git push' para liquidar el requerimiento 2.
+![Requerimento3_B.jpg](img/Requerimento3_B.jpg)
+
 # REQUERIMIENTO 3
 ## Julián
 
-Es jueves por la tarde y ha pasado un día desde que todos podíamos completar el requerimiento 2. No puedo avanzar porque es necesario que los compañeros lleguen aquí: el requerimiento 3 consiste en generar conflictos y soluciones con varios integrantes.
+- Requerimiento 3 apartado 1:
 
-Así que, estoy encima de los demás compañeros y hablo con el profesor y pido una tutoría que nos concede el viernes por la mañana.  (Véase carpeta "[comunicaciones](https://github.com/JuanPablodelaPenaElias/Repo1Actividad1/tree/main/DocEntrega/julian/comunicaciones)").
+Mi rama "develop" está actualizada con el "main" y con el "origin" del ultimo paso.
+![Requerimento3_C.jpg](img/Requerimento3_C.jpg)
+
+- Requerimiento 3 apartado 2:
+Hago los cambios de las comidad favoritas en el java con eclipse y después 'add' y 'commit':
+![Requerimento3_D.jpg](img/Requerimento3_D.jpg)
+
+- Requerimiento 3 apartado 3:
+
+Diego y yo hacemos una videoconferencia para realizar este paso. Él hace sus cambios en el mismo fichero que yo y pone sus comidas favoritas y hace 'push'.
+ 
+- Requerimiento 3 apartado 4:
+
+Ahí va:
+![Requerimento3_E.jpg](img/Requerimento3_E.jpg)
+![Requerimento3_F.jpg](img/Requerimento3_F.jpg)
+
+- Requerimiento 3 apartado 5:
+
+Decidimos hacer un mix de los gustos de uno y otro. Chequeo que el código compila y lo hace correcto.
+![Requerimento3_G.jpg](img/Requerimento3_G.jpg)
+
+
+-Requerimiento 3 apartado 6:
+![Requerimento3_H.jpg](img/Requerimento3_H.jpg)
+
+Requerimient0 3 apartados 7 y 8:
+A la espera de los comàñeros. Pero he terminado a falta de actualizar la versión final de los compañeros.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # REQUERIMIENTO 4
 ## Conclusiones grupales
