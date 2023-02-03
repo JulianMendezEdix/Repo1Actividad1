@@ -134,7 +134,8 @@ Mi rama "develop" está actualizada con el "main" y con el "origin" del ultimo p
 ![Requerimento3_C.jpg](img/Requerimento3_C.jpg)
 
 - Requerimiento 3 apartado 2:
-Hago los cambios de las comidad favoritas en el java con eclipse y después 'add' y 'commit':
+
+Hago los cambios de las comidas favoritas en el java con eclipse y después 'add' y 'commit':
 ![Requerimento3_D.jpg](img/Requerimento3_D.jpg)
 
 - Requerimiento 3 apartado 3:
@@ -143,7 +144,8 @@ Diego y yo hacemos una videoconferencia para realizar este paso. Él hace sus ca
  
 - Requerimiento 3 apartado 4:
 
-Ahí va:
+Hago la parte de Git:
+
 ![Requerimento3_E.jpg](img/Requerimento3_E.jpg)
 ![Requerimento3_F.jpg](img/Requerimento3_F.jpg)
 
@@ -153,29 +155,12 @@ Decidimos hacer un mix de los gustos de uno y otro. Chequeo que el código compi
 ![Requerimento3_G.jpg](img/Requerimento3_G.jpg)
 
 
--Requerimiento 3 apartado 6:
+- Requerimiento 3 apartado 6:
 ![Requerimento3_H.jpg](img/Requerimento3_H.jpg)
 
-Requerimient0 3 apartados 7 y 8:
-A la espera de los comàñeros. Pero he terminado a falta de actualizar la versión final de los compañeros.
+- Requerimiento 3 apartados 7 y 8:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A la espera de los compañeros. Pero he terminado a falta de actualizar la versión final.
 
 
 # REQUERIMIENTO 4
