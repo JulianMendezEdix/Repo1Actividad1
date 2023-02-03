@@ -24,7 +24,13 @@ public class Julian {
 	
 	public static void imprimirComidas() {
 		
-		System.out.println("Mis comidas favoritas son la pasta, las pizzas y las hamburguesas");
+// <<<<<<< HEAD
+		//System.out.println("Mis comidas favoritas son la pasta, las pizzas y las hamburguesas");
+// =======
+		System.out.println("Mis comidas favoritas son la fabada litoral, la pasta y "
+				+ "las hamburguesas. Una curiosidad: la pasta y las hambuerguesas también "
+				+ "son las comidas favoritas de mi compañero de grupo Diego.");
+// >>>>>>> develop
 	
 	} 	
 	
