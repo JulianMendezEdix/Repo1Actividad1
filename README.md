@@ -1,4 +1,5 @@
-﻿# ACTIVIDAD 1 
+﻿![Presentación1_page-0001](img/Presentación1_page-0001.jpg)
+# ACTIVIDAD 1 
 
 ## Tarea en equipo. Control de versiones con GIT
 Este es el documento formal requerido para la entrega de la actividad 1 de la asignatura "Entornos de Desarrollo" del primer curso del ciclo de Formación Profesional DAW en la escuela EDIX 2023.
