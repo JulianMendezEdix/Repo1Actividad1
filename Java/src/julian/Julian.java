@@ -24,7 +24,7 @@ public class Julian {
 	
 	public static void imprimirComidas() {
 		
-		System.out.println("Mis comidas favoritas son la fabada, las lentejas y los macarrones");
+		System.out.println("Mis comidas favoritas son la fabada litoral, las lentejas y los macarrones");
 	
 	} 	
 	
