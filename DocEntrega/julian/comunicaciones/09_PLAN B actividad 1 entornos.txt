@@ -1,0 +1,111 @@
+PLAN B actividad 1 entornos
+JULIÁN MÉNDEZ PODADERA, Diego García Rodríguez
+Grupo 16
+2 Febrero 2023 en 19:05
+ 
+Ok Diego, he visto que está ok en el repositorio plan B. Así que, como no era problema de Juan Pablo, hazlo porfavor con el repositorio de Juan pablo vale? y seguimos desarrollando ahí.
+
+Diego García Rodríguez, JULIÁN MÉNDEZ PODADERA
+Grupo 16
+2 Febrero 2023 en 17:53
+ 
+Vale , disculpa la tardanza, lo siento mucho, de verdad. Ya encontré el problema, debemos de estar utilizando dos versiones diferentes de eclipse o algo parecido, porque se me ocurrió probar a modificar las cosas desde Visual Studio, y subirlo desde la propia terminal de visual studio, y me lo acaba de subir a la primera. Disculpa otra vez por la tardanza
+
+JULIÁN MÉNDEZ PODADERA, Diego García Rodríguez
+Grupo 16
+2 Febrero 2023 en 17:02
+ 
+Ok, ánimo!
+
+Diego García Rodríguez, JULIÁN MÉNDEZ PODADERA
+Grupo 16
+2 Febrero 2023 en 16:38
+ 
+Claro, eso intentaba, pero me está dando algún tipo de error no entiendo muy bien por qué, si no encuentro la forma de que funcione, o esperamos a comentarlo mañana con felix, o bien elimino lo que tengo y vuelvo a hacer el proceso de git clone etc
+
+JULIÁN MÉNDEZ PODADERA, Diego García Rodríguez
+Grupo 16
+2 Febrero 2023 en 16:02
+ 
+aún así no lo sé con certeza. Mejor que te diga felix
+
+JULIÁN MÉNDEZ PODADERA, Diego García Rodríguez
+Grupo 16
+2 Febrero 2023 en 16:00
+ 
+diego, acabo de ver que esta mañana has hecho push en nuestro repositorio plan B. Creo que estaba bien porque lo has hecho em el master. pero la principal rama es main
+
+creo que si cambias el nombre de tu rama principal por main lo tienes.
+
+JULIÁN MÉNDEZ PODADERA, Diego García Rodríguez
+Grupo 16
+2 Febrero 2023 en 10:53
+ 
+Te parece si escribes a Félix y tenemos una tutoría grupal con el hoy.
+
+Diego García Rodríguez, JULIÁN MÉNDEZ PODADERA
+Grupo 16
+2 Febrero 2023 en 10:43
+ 
+Pero el tema de las ramas, se utiliza para subirlo sin machacar lo que tiene el compañero. De ahí que nos pida hacer esas ramas, y luego se fusionan para juntarlo todo sin ningún tipo de problema.
+Llevo un rato mirando, pero no me deja hacer la pull request, no comprendo muy bien por que. Es la primera vez que no me deja fusionar las ramas.
+JULIÁN MÉNDEZ PODADERA, Diego García Rodríguez
+Grupo 16
+1 Febrero 2023 en 19:05
+ 
+Ahora acabo de ver que hay dos ramas en el repositorio, que has hecho una nueva. La rama develop tienes que hacerla en tu repositorio local. No tienes que hacer una rama alternativa en el repositorio remoto.
+
+He probado con nuevo usuario y puedo hacer todo, clonar, puill y push. Mirate la guia de Felix.
+
+Yo avanzo hoy con el Requerimiento 2 ya.
+
+Diego García Rodríguez, JULIÁN MÉNDEZ PODADERA
+Grupo 16
+1 Febrero 2023 en 18:38
+ 
+Claro, he clonado el repositorio, hice el comité y todo, pero no me deja aceptar la pull request desde la página de github
+
+JULIÁN MÉNDEZ PODADERA, Diego García Rodríguez
+Grupo 16
+1 Febrero 2023 en 16:01
+ 
+Yo he podido hacer clone del repositorio de juan pablo. y pull. Y push. Con el mismo acceso que tú en teoría.
+
+Y tengo configurado mi repositorio tal y como ha dicho felix. Y tampoco puedes hacer pull.
+
+Algo no estás haciendo bien, supongo.
+
+JULIÁN MÉNDEZ PODADERA, Diego García Rodríguez
+Grupo 16
+1 Febrero 2023 en 15:49
+ 
+no me aparece ninguna pull request. apareces como colaborador y el repositorio está publico. no veo mas opciones.
+
+te has clonado el repositorio?
+
+Diego García Rodríguez, JULIÁN MÉNDEZ PODADERA
+Grupo 16
+1 Febrero 2023 en 15:28
+ 
+Vale, creo que tienes que aceptar tu mi pull request desde git, debe de venir asi configurado por defecto, pero yo no se como cambiarlo. Se debería poder hacer desde la propia páginad e git, no es necesario hacerlo por comandos
+JULIÁN MÉNDEZ PODADERA, Diego García Rodríguez
+Grupo 16
+1 Febrero 2023 en 11:56
+ 
+Listo
+
+Diego García Rodríguez, JULIÁN MÉNDEZ PODADERA
+Grupo 16
+1 Febrero 2023 en 11:06
+ 
+Vale, me parece correcto, te dejo el correo
+digarciarodriguez@gmail.com
+JULIÁN MÉNDEZ PODADERA, Diego García Rodríguez
+Grupo 16
+1 Febrero 2023 en 11:04
+ 
+Diego, te escribo a ti solo.
+
+He pensado en tener un plan B porque no sé si juan pablo se aclara, la verdad. Si se aclara fantástico, pero si no no quiero ir con palos en las ruedas.
+
+Voy a crear el repositorio en mi cuenta para avanzar vale? y avanzamos por ahí en paralelo? Déjame tu mail o cuenta de github please.

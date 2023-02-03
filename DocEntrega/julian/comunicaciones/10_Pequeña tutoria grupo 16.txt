@@ -1,0 +1,68 @@
+Pequeña tutoria grupo 16
+JULIÁN MÉNDEZ PODADERA, Juan Pablo De La Peña Elías Félix de Pablo ... +1 más
+22-23 MP_0487-Entornos de Desarrollo_DAW
+2 Febrero 2023 en 20:16
+ 
+Felix, estoy pendiente de Juan Pablo y Diego. En cuanto sepa te digo.
+
+Diego ya ha solucionado sus problemas y ha podido hacer push.
+
+Félix de Pablo, Juan Pablo De La Peña Elías Diego García Rodríguez ... +1 más
+22-23 MP_0487-Entornos de Desarrollo_DAW
+2 Febrero 2023 en 18:35
+ 
+Hola a todos,
+
+Me puedo juntar con vosotros mañana a las 11:00 en el aula virtual. Por favor confirmadme que vais a estar.
+
+Diego, es posible que tengas que cambiarte a la rama master, hacer un merge de los cambios de la rama develop y luego ya podrás hacer el push al repositorio remoto. Mira bien que estés haciendo todos los pasos.
+
+Un saludo.
+
+Diego García Rodríguez, Juan Pablo De La Peña Elías Félix de Pablo ... +1 más
+22-23 MP_0487-Entornos de Desarrollo_DAW
+2 Febrero 2023 en 15:28
+ 
+Tras hacer el git clone, he añadido mi parte como se pedía,cree una rama develop, hice el git add. , El commit y luego quise hacer el push. A partir de ahí, en la propia página de git quise confirmar el push pero no me está dejando
+
+Félix de Pablo, JULIÁN MÉNDEZ PODADERA
+22-23 MP_0487-Entornos de Desarrollo_DAW
+2 Febrero 2023 en 14:54
+ 
+Ok mañana nos vemos y comentamos, sobre media mañana creo que tengo un rato, luego os comento.
+
+Un saludo!
+
+JULIÁN MÉNDEZ PODADERA, Juan Pablo De La Peña Elías Félix de Pablo ... +1 más
+22-23 MP_0487-Entornos de Desarrollo_DAW
+2 Febrero 2023 en 14:45
+ 
+Empezamos el lunes la práctica y el lunes dejamos hechos los dos primeros puntos del requerimiento 1.
+
+A partir de ahí yo terminé el requerimiento 1 el martes, a falta de que terminara el resto del grupo. Diego tiene un problema haciendo pull, juan pablo dice que está perdido, y el otro componente del grupo nunca ha respondido.
+
+Por favor juan pablo y diego, comentadle vuestro problemas a felix para avanzar.
+
+Ayer hice el requerimiento 2 y lo subí, aunque no pudiera el resto terminar el 1, porque no puedo trabajar el finde y tengo que terminar esta semana, como ya comenté. Entre hoy y mañana me gustaría terminar requerimiento 3 y doc de entrega.
+
+Félix de Pablo, Juan Pablo De La Peña Elías Diego García Rodríguez ... +1 más
+22-23 MP_0487-Entornos de Desarrollo_DAW
+2 Febrero 2023 en 14:24
+ 
+Hola a todos,
+
+Hoy me es imposible, mñn por la mñn si podéis sacar un rato voy a mirar que tengo libre y os cuento . De todas maneras, qye problema tenéis? Por si podemos solucionarlo por aquí.
+
+Un saludo!
+
+Juan Pablo De La Peña Elías, Félix de Pablo Diego García Rodríguez ... +1 más
+22-23 MP_0487-Entornos de Desarrollo_DAW
+2 Febrero 2023 en 11:03
+ 
+por mi perfecto hoy porque mañana tengo fisio
+
+JULIÁN MÉNDEZ PODADERA, Juan Pablo De La Peña Elías Félix de Pablo ... +1 más
+22-23 MP_0487-Entornos de Desarrollo_DAW
+2 Febrero 2023 en 10:58
+ 
+Hola Félix, tienes 20 minutejos hoy o mañana para ayudarnos un poco algunas dudas grupales?
