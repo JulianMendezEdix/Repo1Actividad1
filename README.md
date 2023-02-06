@@ -14,7 +14,7 @@ El profesor  es Félix de Pablo.
 # URL DEL REPOSITORIO
 
 
-https://github.com/JuanPablodelaPenaElias/Repo1Actividad1.git
+https://github.com/JulianMendezEdix/Repo1Actividad1.git
 
 # REQUERIMIENTO 1
 ## Julián
@@ -156,46 +156,28 @@ Decidimos hacer un mix de los gustos de uno y otro. Chequeo que el código compi
 
 
 - Requerimiento 3 apartado 6:
+
 ![Requerimento3_H.jpg](img/Requerimento3_H.jpg)
 
 - Requerimiento 3 apartados 7 y 8:
 
 A la espera de los compañeros. Pero he terminado a falta de actualizar la versión final.
+Es lunes 6 día de la entrega y hablo con Juan Pablo para que ponga el repositorio en público porque lo tiene en privado y me contesta que no sabe.
+Tenerlo en público es necesario para que el profesor pueda acceder a él y corregirlo.
+Así que, para curarme en salud, cambio el respositorio entero a mi github en un segundo.
+Lo que hago es duplicar la carpeta local con la carpeta git incluida, y en esa carpeta hago un git remote set-url origin "nueva URL en mi github".
+Así mantenemos todos los commits. Añado como colaboradores a Diego y a Juan Pablo y les aviso de que nos pasamos al PlanB.
+Cambio la información en el readme de la ubicacion del repositorio.
 
 
 # REQUERIMIENTO 4
 ## Conclusiones grupales
 
+Git es una maravilla combinado con Github para trabajar y colaborar en grupo.
+Es una combinación que cubre todas las posibles soluciones que se nos ocurren para trabajar en grupo preservando el trabajo individual.
+Trabajar en grupo es complicado cuando los integrantes no pueden tener el mismo nivel de compromiso y no se cumplen unos mínimos.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#FIN
 
 > Written with [StackEdit](https://stackedit.io/).
 
