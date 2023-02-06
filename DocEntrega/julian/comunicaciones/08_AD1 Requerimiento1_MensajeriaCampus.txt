@@ -1,4 +1,12 @@
-AD/1 Requerimiento 1
+JULIÁN MÉNDEZ PODADERA, Juan Pablo De La Peña Elías Diego García Rodríguez
+Grupo 16
+3 Febrero 2023 en 11:24
+ 
+Ok Diego! ya he subido mis comidas favoritas. te toca hacer el punto 3 del requerimiento 3 y casi terminamos!
+
+es este:
+
+"Otro participante deberá de hacer cambios en el mismo fichero que su compañero de trabajo hizo en el punto 2, en este caso deberá de imprimir por pantalla sus 3 comidas favoritas y realizará el commit A continuación, hará un merge de la rama “develop” a la rama principal “master” y subiera los cambios al repositorio remoto mediante un push."
 
 JULIÁN MÉNDEZ PODADERA, Juan Pablo De La Peña Elías Diego García Rodríguez
 Grupo 16
@@ -107,7 +115,6 @@ El mar, 31 ene 2023 a las 15:13, JULIÁN MÉNDEZ PODADERA (<
 notifications@instructure.com>) escribió:
 
 mostrar texto citado
-
 JULIÁN MÉNDEZ PODADERA, Juan Pablo De La Peña Elías Diego García Rodríguez ... +1 más
 Grupo 16
 31 Enero 2023 en 15:06
