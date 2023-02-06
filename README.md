@@ -186,6 +186,7 @@ Así que, para curarme en salud, cambio el respositorio entero a mi github en un
 Lo que hago es duplicar la carpeta local con la carpeta git incluida, y en esa carpeta hago un git remote set-url origin "nueva URL en mi github".
 Así mantenemos todos los commits. Añado como colaboradores a Diego y a Juan Pablo y les aviso de que nos pasamos al PlanB.
 Cambio la información en el readme de la ubicacion del repositorio.
+Entrego la tarea después de comentárselo al grupo. Y completo el reuqerimiento 4 de conclusiones grupales también, ya que nadie propone hacerlo.
 
 
 # REQUERIMIENTO 4
@@ -195,7 +196,5 @@ Git es una maravilla combinado con Github para trabajar y colaborar en grupo.
 Es una combinación que cubre todas las posibles soluciones que se nos ocurren para trabajar en grupo preservando el trabajo individual.
 Trabajar en grupo es complicado cuando los integrantes no pueden tener el mismo nivel de compromiso y no se cumplen unos mínimos.
 
-#FIN
-
-> Written with [StackEdit](https://stackedit.io/).
+# FIN
 
